@@ -2,7 +2,7 @@
 //Q群：235436873
 
 {
-	"spider": "./YSC.jar;md5;3a4759ee98f5e365b7bbece5aca9ce1e",
+	"spider": "./YSC.jar;md5;1b7ed042eefcdb59245ea18c5273c552",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
@@ -33,6 +33,7 @@
 {"key":"LIBVIO","name":"🔷LibVio","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/LIBVIO.json"},
 {"key":"看看剧","name":"💧看看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/kankanju.json"},
 {"key":"23TV","name":"💧23影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组": "class=\"aplus-exp\"&&</a>","分类":"电影$1#剧集$2#动漫$4#综艺$3#记录$20","分类url":"https://www.23wm.net/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"}},
+{"key":"大豆高清","name":"💧大豆高清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/dadou.json"},
 {"key":"热播之家","name":"☘️热播之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/rebozj.json"},
 {"key":"独播库","name":"☘️独播库","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/duboku.json"},
 {"key":"HDmoli","name":"🦹魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/HDmoli.json"},
@@ -66,7 +67,6 @@
 {"key":"csp_Nkdy","name":"⏺南柯电影","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/nktv.js"},
 {"key":"蓝光影院","name":"💧蓝光影院","type":3,"api":"csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./sub/languang.json"},
 {"key":"两个BT","name":"✌两个BT","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"./sub/bttwo.json"},
-{"key":"人人影视","name":"🍀人人影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/renren.js"},
 {"key":"csp_AppYsV2","name":"🗽69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"看看电影","name":"🍀看看电影","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/kankandianying.js"},
 {"key":"兄弟影视","name":"🍀兄弟影视","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/xiongdiyingshi.js"},
